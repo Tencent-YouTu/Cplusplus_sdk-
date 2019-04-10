@@ -1,6 +1,6 @@
 # tencentyun-youtu
 
-c++ sdk for [腾讯优图开放平台](http://open.youtu.qq.com)
+c++ sdk for [腾讯优图开放平台](https://open.youtu.qq.com)
 
 ## 安装
 ####运行环境
@@ -33,7 +33,7 @@ c++ sdk for [腾讯优图开放平台](http://open.youtu.qq.com)
 - `AppId` 平台用后分配的AppId
 - `SecretId` 平台添加应用后分配的SecretId
 - `SecretKey` 平台添加应用后分配的SecretKey
-- `签名` 接口鉴权凭证，由AppId、SecretId、SecretKey等生成，详见<http://open.youtu.qq.com/#/develop/tool-authentication>
+- `签名` 接口鉴权凭证，由AppId、SecretId、SecretKey等生成，详见<https://open.youtu.qq.com/#/develop/tool-authentication/auth>
 
 
 ## 使用示例
@@ -343,4 +343,4 @@ c++ sdk for [腾讯优图开放平台](http://open.youtu.qq.com)
 ```
 更多详情和文档说明参见
 [腾讯云智能优图服务](http://www.qcloud.com/product/fr.html)
-[腾讯优图开放平台](open.youtu.qq.com)
+[腾讯优图开放平台](https://open.youtu.qq.com)
